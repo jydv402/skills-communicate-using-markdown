@@ -5,3 +5,9 @@ This is for the course Introduction to Markdown 😄
 
 ### How to add images using Markdown
 ![Image of Nyantocat](https://octodex.github.com/images/nyantocat.gif)
+
+### How to add code snippets using Markdown
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
