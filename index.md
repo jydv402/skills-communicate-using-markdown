@@ -11,3 +11,11 @@ This is for the course Introduction to Markdown 😄
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+### How to add a task list
+##### Things that are pending
+- [x] Make a GitHub account
+- [x] Create my first repo
+- [x] Commit my first project
+- [ ] Outline my portfolio on GitHub
+- [ ] Introduce myself to the world
