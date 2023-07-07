@@ -1,2 +1,14 @@
 #  This is an `<h1>` header (The largest)
-This is for the course of Introduction to Markdown
+
+##  This is an `<h2>` header
+
+###  This is an `<h3>` header
+
+####  This is an `<h4>` header
+
+#####  This is an `<h5>` header
+
+######  This is an `<h6>` header (The smallest)
+
+
+This is for the course Introduction to Markdown 😄
